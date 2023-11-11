@@ -1,0 +1,15 @@
+/*
+Theme Name: Simple Theme
+Description: A very simple WordPress theme
+Author: Your Name
+Version: 1.0
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+h1 {
+  color: #333;
+}
